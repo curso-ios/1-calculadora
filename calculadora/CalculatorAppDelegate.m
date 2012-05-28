@@ -6,9 +6,9 @@
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
-#import "XYZAppDelegate.h"
+#import "CalculatorAppDelegate.h"
 
-@implementation XYZAppDelegate
+@implementation CalculatorAppDelegate
 
 @synthesize window = _window;
 
